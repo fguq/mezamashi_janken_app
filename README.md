@@ -1,24 +1,25 @@
-# README
+# めざましじゃんけんサポートツール
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+##はじめに
+このアプリはRubyもRailsも学び始めて間もない人間が、
+Railsを使ったアプリを立ち上げ、簡単なコードを書き、実際にデプロイしてみる...
+という勉強のために作成するアプリです。
+色々とご容赦ください...。
 
-Things you may want to cover:
+## 概要
+### もう、朝に迷うことがなくなります。
+めざましじゃんけんで出す手を毎朝迷う...。
+そんな経験はありませんか？
+これはそんな人のためのアプリです。
+ボタンをクリックするだけであなたが今日出すべき手を教えてくれます。
 
-* Ruby version
 
-* System dependencies
+## 使用方法
+#### 希望への扉。"Home"
+いちばん初めに表示されるページ "Home" であなたの望みは叶います。
+つまりこのページでボタンをクリックするだけで毎朝の迷いから解放されるのです。
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### 素晴らしい一日のスタートライン。"Result"
+"Result" ページにあなたの出すべき手が表示されます。
+あなたの直感で「この手は違う」と感じても大丈夫。
+"戻る"ボタンで再度導きをを得ることができます。
